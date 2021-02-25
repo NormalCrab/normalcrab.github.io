@@ -2,7 +2,7 @@
 layout: post
 title:  "First Step, start a blog"
 date:   2021-02-25 14:22:47 +0800
-categories: diary
+categories: diary thought
 ---
 
 總是要有一個開始，如果在意自己是否完美，那永遠無法跨出第一步。
