@@ -19,7 +19,7 @@ Jekyll 用了大概兩天，基本概念大概抓到了。
 
 以下是 Jekyll 產生出的檔案架構
 
-```bash
+```sass
 docs
    ├───_layouts
    ├───_posts
