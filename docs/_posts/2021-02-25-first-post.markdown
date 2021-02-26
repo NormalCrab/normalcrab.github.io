@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Step, start a blog"
+title:  "新的開始，重新的起飛"
 date:   2021-02-25 14:22:47 +0800
 categories: diary thought
 ---

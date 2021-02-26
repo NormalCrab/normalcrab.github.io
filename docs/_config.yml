@@ -21,12 +21,10 @@
 title: Code Notes
 email: alex.c.kang@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  到處流浪的軟體工程師，中間跑去AI的研究機構工作，最近想回去當軟體工程師，開始準備一些知識，開一個Blog來作筆記，順便紀錄準備過程與心。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: None
+author: Alex Kang
 github_username:  NormalCrab
 
 # Build settings
