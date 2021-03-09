@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll setup for Mac M1"
 date:   2021-03-09 16:26:00 +0800
-categories: jekyll update
+categories: web framework note
 ---
 
 終於把 Jekyll 成功地安裝到 Mac 上面了，我原本的計畫就是這台電腦是準備拿來寫自己的東西。
